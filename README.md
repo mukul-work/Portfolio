@@ -5,7 +5,7 @@ A personal portfolio website built to showcase selected projects and provide a s
 This project exists to practice structuring a real-world frontend application and presenting work clearly using modern tooling.
 
 ## Demo
-- []Live URL](https://mukulkashyap.com)
+- [Live URL](https://mukulkashyap.com)
 
 ## Features
 - Responsive layout optimized for desktop and mobile
